@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/anthony-harold-73b78b223/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/enes-unlu-fullstackdeveloper/">
 </a>
-<a href="mailto:anthonyharold67" target="_blank">
+<a href="mailto:anthonyharold67@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:anthonyharold67@gmail.com">
 </a>
 <a>
