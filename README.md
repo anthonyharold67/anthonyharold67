@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:anthonyharold67@gmail.com">
 </a>
 <a>
-<img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react_logo.png" align='left' width="20%" alt="react">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" align='left' width="20%" alt="react">
 </a>    
 
 ### 📑 I'm currently doing front and backend development (Java Script | React | Node.js | Django)
